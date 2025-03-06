@@ -601,6 +601,7 @@ createScrollableCardsSection(sectionData);
 
 
 
+
 /* Function for import all comments from google sheet */
 document.getElementById("indoforall_comment_form").addEventListener("submit", async function (event) {
     event.preventDefault(); // Prevent page refresh
